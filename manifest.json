@@ -1,0 +1,13 @@
+{
+	"songs": [
+		{
+			"name" : "Tutorial",
+			"file" : "tutorial"
+		},
+
+		{
+			"name" : "Bopeebo",
+			"file" : "bopeebo"
+		}
+	]
+}

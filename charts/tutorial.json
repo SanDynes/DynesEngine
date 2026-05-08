@@ -1,0 +1,23 @@
+{
+	"song": "tutorial",
+	"bpm": 100,
+	"scrollSpeed": 400,
+	
+	"notes": [
+
+		{
+			"dir": "left",
+			"strumTime": 14579,
+			"endTime": 14579
+		},
+
+		{
+			"dir": "right",
+			"strumTime": 15771,
+			"endTime": 15771
+		},
+	]
+
+
+
+}
