@@ -1,0 +1,14 @@
+{
+
+	"name" : "boyfriend",
+	"scale" : 0.775,
+	"animations" : [
+		{ "name": "idle",  "prefix":"idle",   "frames":5, "fps":30, "loop":true},
+		{ "name": "left",  "prefix":"left",   "frames":2, "fps":12, "loop":false},
+		{ "name": "up",    "prefix":"up",     "frames":2, "fps":12, "loop":false},
+		{ "name": "down",  "prefix":"down",   "frames":2, "fps":12, "loop":false},
+		{ "name": "right", "prefix":"right",  "frames":2, "fps":12, "loop":false}
+
+	]
+
+}

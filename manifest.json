@@ -8,6 +8,16 @@
 		{
 			"name" : "Bopeebo",
 			"file" : "bopeebo"
+		},
+
+		{
+			"name" : "Fresh",
+			"file" : "fresh"
+		},
+
+		{
+			"name" : "Ruckus",
+			"file" : "ruckus"
 		}
 	]
 }

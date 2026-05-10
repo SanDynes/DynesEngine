@@ -1,0 +1,14 @@
+{
+
+	"name" : "daddy",
+	"scale" : 0.775,
+	"animations" : [
+		{ "name": "idle",  "prefix":"idle",   "frames":4, "fps":25, "loop":true},
+		{ "name": "left",  "prefix":"left",   "frames":1, "fps":12, "loop":false},
+		{ "name": "up",    "prefix":"up",     "frames":3, "fps":16, "loop":false},
+		{ "name": "down",  "prefix":"down",   "frames":2, "fps":12, "loop":false},
+		{ "name": "right", "prefix":"right",  "frames":3, "fps":16, "loop":false}
+
+	]
+
+}
