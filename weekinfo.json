@@ -1,0 +1,23 @@
+{
+	"weeks": [
+		{
+			"weekName" : "Week D",
+			"weekDesc" : "Daddy issues",
+			"weekSongs" : [
+				{"file" : "bopeebo", "cutscenePre" : "", "cutscenePost" : ""},
+				{"file" : "fresh", "cutscenePre" : "", "cutscenePost" : ""},
+				{"file" : "dadbattle", "cutscenePre" : "", "cutscenePost" : ""}
+			]
+		},
+
+		{
+			"weekName" : "Week S",
+			"weekDesc" : "Do you wanna have a MAD time?",
+			"weekSongs" : [
+				{"file" : "themurderer", "cutscenePre" : "themurderer.mp4", "cutscenePost" : "themurderer2.mp4"},
+				{"file" : "redmegalovania", "cutscenePre" : "redmegalovania.mp4", "cutscenePost" : ""},
+				{"file" : "drowning", "curscenePre" : "", "cutscenePost" : ""}
+			]
+		}
+	]
+}

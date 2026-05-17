@@ -1,7 +1,7 @@
 {
 
 	"name" : "daddy",
-	"scale" : 0.775,
+	"scale" : 1,
 	"animations" : [
 		{ "name": "idle",  "prefix":"idle",   "frames":4, "fps":25, "loop":true},
 		{ "name": "left",  "prefix":"left",   "frames":1, "fps":12, "loop":false},

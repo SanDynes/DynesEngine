@@ -1,0 +1,33 @@
+{
+
+	"themurderer": [
+		
+		{"character":"sans", "text": "wh..."},
+		{"character":"boyfriend", "text": "Beep."},
+		{"character":"sans", "text": "who are you...? you are not the human i know."},
+		{"character":"boyfriend", "text": "Skeep bap."},
+		{"character":"sans", "text": "...no no no... i can't! i'm... i'm not ready..."},
+		{"character":"boyfriend", "text": "Skbeep?"},
+		{"character":"sans", "text": "...i..."},
+		{"character":"sans", "text": "..."},
+		{"character":"sans", "text": "...i... ...don't have enough."},
+		{"character":"boyfriend", "text": "...Bop?"},
+		{"character":"sans", "text": "...i..."},
+		{"character":"sans", "text": "..."}
+		
+	],
+
+	"redmegalovania": [
+		{"character":"sans", "text": "...you again?"},
+		{"character":"boyfriend", "text": "Beep!"},
+		{"character":"sans", "text": "i... well..., guess i don't got a choice."}
+	],
+
+	"drowning": [
+		{"character":"sans", "text": "...i'm doing what i have to do."},
+		{"character":"sans", "text": "...leave... ...papyrus... i already know."},
+		{"character":"boyfriend", "text": "Bop?"},
+		{"character":"sans", "text": "no, i don't know what i'm gonna do next."}
+	]
+
+}

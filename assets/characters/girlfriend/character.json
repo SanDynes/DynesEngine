@@ -1,0 +1,10 @@
+{
+
+	"name" : "girlfriend",
+	"scale" : 1,
+	"animations" : [
+		{ "name": "idle",  "prefix":"idle", "frames":17, "fps":30, "loop":true}
+
+	]
+
+}

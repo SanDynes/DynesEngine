@@ -1,7 +1,7 @@
 {
 
 	"name" : "matt",
-	"scale" : 0.775,
+	"scale" : 1,
 	"animations" : [
 		{ "name": "idle",  "prefix":"idle",   "frames":5, "fps":30, "loop":true},
 		{ "name": "left",  "prefix":"left",   "frames":2, "fps":12, "loop":false},

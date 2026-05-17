@@ -1,11 +1,6 @@
 {
 	"songs": [
 		{
-			"name" : "Tutorial",
-			"file" : "tutorial"
-		},
-
-		{
 			"name" : "Bopeebo",
 			"file" : "bopeebo"
 		},
@@ -16,8 +11,33 @@
 		},
 
 		{
+			"name" : "Dadbattle",
+			"file" : "dadbattle"
+		},
+
+		{
 			"name" : "Ruckus",
 			"file" : "ruckus"
+		},
+
+		{
+			"name" : "It's Complicated",
+			"file"  : "itscomplicated"
+		},
+
+		{
+			"name" : "The Murderer",
+			"file" : "themurderer"
+		},
+
+		{
+			"name" : "Red Megalovania",
+			"file" : "redmegalovania"
+		},
+
+		{
+			"name" : "Drowning",
+			"file" : "drowning"
 		}
 	]
 }
